@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Geneva
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Geneva
+  officeDescription: Commercial building consisting of 4 office spaces. The building
+    is located in one of the dynamically developing areas. Excellent transport accessibility,
+    convenient access to the motorway nearby.
+  employeesAmount: 125
+  salary: 875
+  weeklyPaymentValue: 9200
+  releasedGamesAmount: 0
+  price: 478000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 5066fc08991490e48994dc8c468d645f, type: 3}
+  countryNames:
+  - Henri Didier-Bertrand
+  - "L\xE9on Besnard"
+  - "Fran\xE7ois Roche"
+  - Richard Laporte-Guillon
+  - Marie Jean-Bertrand
+  - Vernon Moreau
+  - Alphonse de Roussel
+  - Dominique Bigot
+  - "\xC9mile Sanchez"
+  - Isaac Seguin
+  - Gilles Guillon
+  - Julien Fischer
+  - Alexandre Hamel
+  - Jean Pruvost-Blot
+  - Daniel Morvan

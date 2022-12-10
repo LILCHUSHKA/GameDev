@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Lisbon
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Lisbon
+  officeDescription: Commercial premises for offices of 550 m2 in the center of Lisbon.
+    The space is distributed over 2 floors. There are several spaces in the surrounding
+    area that contribute to the attractiveness of the property
+  employeesAmount: 215
+  salary: 275
+  weeklyPaymentValue: 9230
+  releasedGamesAmount: 0
+  price: 480000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 6fc287df45e92b7479955cf07334ed26, type: 3}
+  countryNames:
+  - "Ivo Sebasti\xE3o Vaz Pinto"
+  - Marco Fonseca de Abreu
+  - Duarte Rocha Teixeira
+  - "\xC1lvaro Leal Pires"
+  - Nelson Cruz Azevedo
+  - Igor Torres de Figueiredo
+  - "Ra\xFAl Vicente Sousa Neto"
+  - Davi Renato Leite Leite
+  - "Ra\xFAl Isaac de Sim\xF5es"
+  - Santiago Lima Moreira
+  - "Tom\xE9 Matos"
+  - "Ant\xF3nio Alves Jesus"
+  - Matias Diogo Leite
+  - Joaquim Lopes Moreira
+  - Xavier Diogo de Almeida

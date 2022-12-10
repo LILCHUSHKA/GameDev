@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Changsha
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Changsha
+  officeDescription: This wonderful office is located in a wonderful big tourist
+    town. The building is located in a highly developed area where office real estate
+    is in high demand. The building is located in an industrial quarter, which is
+    very convenient to get to by transport. There are a lot of good cafes and restaurants
+    around the office, residential blocks, there is a park behind it. The office
+    area is 842 m2.
+  employeesAmount: 360
+  salary: 200
+  weeklyPaymentValue: 3200
+  releasedGamesAmount: 0
+  price: 168000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 17e1a8740b90c9f4e8d97276306b8437, type: 3}
+  countryNames:
+  - countryNames[random.Range(0, n)]
+  - Gui Zhengye
+  - Zhou Rui
+  - Zuo Chang
+  - Li Jun
+  - Pang Ning
+  - Yu Zhengye
+  - Mi Zhong
+  - Miao Huan
+  - Ji Bo
+  - Shao Yang
+  - Pang Peng
+  - Ruan Xiang
+  - Liao Ping
+  - Wei Bing

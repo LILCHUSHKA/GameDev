@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Moscow
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Moscow
+  officeDescription: 'The location of the office is an opportunity to reach the very
+    center of the city and
+
+    the main business districts in just 15 minutes.
+    A presentable entrance group, spacious and bright offices of mixed layout, with
+    the ability to think over an individual interior and equip it with everything
+    necessary for comfortable business. Walking distance from the metro and convenient
+    access to the building will give employees the opportunity to spend a minimum
+    amount of time on the way to their favorite office.'
+  employeesAmount: 505
+  salary: 815
+  weeklyPaymentValue: 90400
+  releasedGamesAmount: 0
+  price: 4700000
+  isPlayerOffice: 0
+  isBotOffice: 1
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: ed74fb1b6780d264488c3ecbeaddffa2, type: 3}
+  countryNames:
+  - Mamontov Yan Ivanovich
+  - Ryabov Arseniy Maksimovich
+  - Emelyanov Ignatiy Ivanovich
+  - Matvey Andreevich Konstantinov
+  - Kulakov Stefan Andreevich
+  - Fedorov Miroslav Lvovich
+  - Belov Gerasim Alexandrovich
+  - Sobolev Taras Evgenievich
+  - Arkady Maksimovich Parovozov
+  - Stepanov Roman Vladimirovich
+  - Shcherbakov Adrian Andreevich
+  - Voronov Anatoly Sergeevich
+  - Ovchinnikov Svyatoslav Andreevich
+  - Loginova Dominika Sergeevna
+  - Sandra Shashkova

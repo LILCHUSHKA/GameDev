@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: San Gwann
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: San Gwann
+  officeDescription: A selection of new offices, currently being completed, in a
+    central location. Units enjoy an open plan layout and range between 120 to 200sqm
+    and can be joined together.
+  employeesAmount: 25
+  salary: 800
+  weeklyPaymentValue: 2320
+  releasedGamesAmount: 0
+  price: 121000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: aec0c3f065bde7d4cbb83b3b881059be, type: 3}
+  countryNames:
+  - Gaetano Amato
+  - Cecco Cattaneo
+  - Ausonio Martini
+  - Oreste Ruggiero
+  - Lauro Carbone
+  - Nestore Giordano
+  - Joey Messina
+  - Marzio Pagano
+  - Nazzareno Battaglia
+  - Louis Mason
+  - Jack Wilson
+  - Martin Bailey
+  - Jeremy Hall
+  - Bruce Graham
+  - Tyler Edwards

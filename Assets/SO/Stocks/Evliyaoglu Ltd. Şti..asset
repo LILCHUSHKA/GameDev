@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab88f0d6f53494e892ef8dc324c6a2, type: 3}
+  m_Name: "Evliyaoglu Ltd. \u015Eti."
+  m_EditorClassIdentifier: 
+  OnStockPriceChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  stockDescription:
+    companyName: "Evliyaoglu Ltd. \u015Eti."
+    companyDescription: A company specializing in the development and publication
+      of computer games, whose main office is located in Limassol, Cyprus. It is
+      one of the largest game publishers in Asia. At first, the company was focused
+      on developing ported versions of games from other studios. But in 1983 she
+      started developing her own games. In the history of the company, it has happened
+      that the release of games was delayed due to the fact that developers, wanting
+      to improve the quality of the game, continued to refine and test it. At the
+      moment, it is the company with the largest office on the planet, which employs
+      8,400 employees at the same time.
+    managerName: "R\xFCzgar Kesero\u011Flu"
+    date: 1978
+    sharesAmount: 4157600
+    costPrice: 62580000
+    employeesAmount: 8400
+    bankruptcyYear: 0
+    bankruptcyMonth: 0
+    bankruptcyWeek: 0
+    offices:
+    - {fileID: 11400000, guid: de5ac54c85f84604fbe7a01a4a750a0b, type: 2}
+  stockPrice: 15
+  startPrice: 15
+  availableStocks: 100
+  indexInList: 0
+  maxPrice: 63
+  minPrice: 15
+  isTracked: 0
+  lastValues: 

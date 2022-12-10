@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab88f0d6f53494e892ef8dc324c6a2, type: 3}
+  m_Name: APC
+  m_EditorClassIdentifier: 
+  OnStockPriceChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  stockDescription:
+    companyName: APC
+    companyDescription: "Polish company, video game developer, publisher, founded
+      in 1981. The main and so far the only office is located in Dubai. This company
+      became the first independent developer of games for video game consoles and
+      personal computers. In the near future, the founder of the company wants to
+      conclude a deal on the takeover of the company \"Evliyaoglu Ltd. \u015Eti.\".
+      The total cost of the acquisition of \"Evliyaoglu Ltd. \u015Eti.\" is $62,580,000."
+    managerName: Giel Demir
+    date: 1981
+    sharesAmount: 708300
+    costPrice: 52993095
+    employeesAmount: 320
+    bankruptcyYear: 0
+    bankruptcyMonth: 0
+    bankruptcyWeek: 0
+    offices:
+    - {fileID: 11400000, guid: 709b41e1f4c72af419a7a4a4fc11f5ef, type: 2}
+  stockPrice: 7
+  startPrice: 18
+  availableStocks: 100
+  indexInList: 0
+  maxPrice: 8
+  minPrice: 1
+  isTracked: 0
+  lastValues: 0100000001000000010000000100000003000000020000000100000001000000030000000200000001000000010000000400000003000000020000000300000004000000050000000800000007000000

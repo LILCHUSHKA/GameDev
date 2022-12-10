@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Netanya
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Netanya
+  officeDescription: The facility includes 5 offices on the 8th floor with a city
+    view with a total area of 103 m2. It is located in the city center, near the
+    beach, public transport stops, a supermarket, a fitness room and a polyclinic.
+  employeesAmount: 20
+  salary: 1000
+  weeklyPaymentValue: 3650
+  releasedGamesAmount: 0
+  price: 190000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 6f228373426912847b95f4351b9b660e, type: 3}
+  countryNames:
+  - Chai Eichenstein
+  - Yanai Gstettner
+  - Terry Isserlich
+  - Maayan Shapira
+  - Gilboa Mireles
+  - Zuriel Rabinowitz
+  - Leche Auerbach
+  - David Katz
+  - Gilam Epstein
+  - Ligia Trope
+  - Arnon Pines
+  - Netzer Eliashiv
+  - Mordechai Ravakash
+  - Eliran Grozovsky
+  - Uzi Hildesheim

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: NY
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: New York
+  officeDescription: "The total area of the building is only 1,900 m2. The object
+    is located in a village with a small population (Ocean County, New Jersey). \r
+    In the immediate vicinity there are shops, a restaurant, a pizzeria, a pharmacy,
+    a pawnshop, a library, an elementary school. \r"
+  employeesAmount: 475
+  salary: 1200
+  weeklyPaymentValue: 67300
+  releasedGamesAmount: 0
+  price: 3500000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: c88ce71cd128bbb40b87139fc9d550a1, type: 3}
+  countryNames:
+  - James Craig
+  - Rodney Baker
+  - Adam Hale
+  - Glenn Clark
+  - Gary Peterson
+  - Fred Jenkins
+  - Paul Martinez
+  - Danny Simpson
+  - Michael Harvey
+  - David Santiago
+  - Charles Jacobs
+  - John Elliott
+  - Mark Flores
+  - Sean Griffin
+  - Todd Brown

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Lazio
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Lazio
+  officeDescription: Commercial property on Firenze Street, next to the Opera House.
+    The total area of the room is 120 m2.
+  employeesAmount: 40
+  salary: 850
+  weeklyPaymentValue: 86750
+  releasedGamesAmount: 0
+  price: 347000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 0be978e8ffd8a40468105d3f1f2d1371, type: 3}
+  countryNames:
+  - Domingo Marino
+  - Pericle Rinaldi
+  - Bortolo Russo
+  - Radio Ferretti
+  - Dott. Egidio Damico
+  - Eustachio Bruno
+  - Graziano De rosa
+  - Sig. Secondo Piras
+  - Anselmo Messina
+  - Noah De Angelis
+  - Ilario Barone
+  - Guido Sorrentino
+  - Santo Giuliani
+  - Lorenzo Fontana
+  - Alighiero Lombardi

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab88f0d6f53494e892ef8dc324c6a2, type: 3}
+  m_Name: Schehirch
+  m_EditorClassIdentifier: 
+  OnStockPriceChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  stockDescription:
+    companyName: Schehirch
+    companyDescription: A company specializing in the development and publication
+      of computer games. Schehirch is one of the largest game publishers in Europe.
+      Schehirch is the ninth largest publicly traded computer game company in the
+      world in terms of revenue after Evliyaoglu and Saditek.
+    managerName: 
+    date: 
+    sharesAmount: 0
+    costPrice: 0
+    employeesAmount: 0
+    bankruptcyYear: 0
+    bankruptcyMonth: 0
+    bankruptcyWeek: 0
+    offices: []
+  stockPrice: 0
+  startPrice: 15
+  availableStocks: 100
+  indexInList: 0
+  maxPrice: 0
+  minPrice: 15
+  isTracked: 0
+  lastValues: 

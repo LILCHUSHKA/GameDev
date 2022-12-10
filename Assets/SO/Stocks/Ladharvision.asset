@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab88f0d6f53494e892ef8dc324c6a2, type: 3}
+  m_Name: Ladharvision
+  m_EditorClassIdentifier: 
+  OnStockPriceChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  stockDescription:
+    companyName: Ladharvision
+    companyDescription: "An international company engaged in the development and
+      publishing of games for PCs and consoles, as well as investing in game studios
+      and projects. It is part of Evliyaoglu Ltd. \u015Eti. Has the status of \"People's
+      Developer\" in Australia and France."
+    managerName: 
+    date: 
+    sharesAmount: 0
+    costPrice: 0
+    employeesAmount: 0
+    bankruptcyYear: 0
+    bankruptcyMonth: 0
+    bankruptcyWeek: 0
+    offices: []
+  stockPrice: 0
+  startPrice: 11
+  availableStocks: 100
+  indexInList: 0
+  maxPrice: 0
+  minPrice: 11
+  isTracked: 0
+  lastValues: 

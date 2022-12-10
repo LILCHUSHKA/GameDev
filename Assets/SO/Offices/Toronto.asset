@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Toronto
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Toronto
+  officeDescription: The building was built in 1974. There is parking for 20 cars
+    on the territory of the office. The office is located in a residential area with
+    high traffic. Not far from the office there are public transport stops, cafes,
+    a park, as well as many shops.
+  employeesAmount: 210
+  salary: 860
+  weeklyPaymentValue: 48000
+  releasedGamesAmount: 0
+  price: 2500000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 8434cc38a4618d24aaded43a16fa1abd, type: 3}
+  countryNames:
+  - Prof. Rahul Kulas
+  - Arno Homenick
+  - Prof. Evan Davis III
+  - Braxton Wintheiser
+  - Julius Trantow
+  - Lucius Hamill
+  - Javon Jacobson
+  - Axel Rath
+  - Arjun Hammes
+  - Coby Volkman Jr.
+  - Garnet Kub
+  - Destin Dickinson
+  - Ruben McGlynn
+  - Kody Bechtelar
+  - Chester Pouros

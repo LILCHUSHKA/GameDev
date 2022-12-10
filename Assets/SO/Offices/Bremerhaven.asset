@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Bremerhaven
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Bremerhaven
+  officeDescription: The office building has 4 floors and a basement, an area of
+    735 m2. The facility was regularly serviced, ventilation, elevator, alarm system,
+    fire doors were recently replaced. The building is in very good condition, no
+    significant repair costs will be required in the coming years. The object is
+    located in a commune directly adjacent to Berlin.
+  employeesAmount: 145
+  salary: 1125
+  weeklyPaymentValue: 21150
+  releasedGamesAmount: 0
+  price: 1100000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: a4306ffeb947b0d43b904a7bf12851e4, type: 3}
+  countryNames:
+  - Volker Petersen
+  - Hinrich Geisler
+  - Erik Altmann B.Sc.
+  - Jakob Opitz
+  - Matthias Scholz
+  - Werner Franz
+  - Ibrahim Behrens
+  - John Erdmann
+  - Mathias Janssen B.Eng.
+  - Michael Krieger
+  - Herr Patrick Naumann B.A.
+  - "Arnulf Schl\xFCter"
+  - "Wilhelm K\xF6nig"
+  - Wolfgang Hofmann
+  - "Eric K\xFChn"

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Bern
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Bern
+  officeDescription: The office building built in 1975 is located in the city center
+    in Bern, next to the Swiss National Bank. The total area of the building is 22450
+    METERS SQUARED.
+  employeesAmount: 2495
+  salary: 715
+  weeklyPaymentValue: 165450
+  releasedGamesAmount: 0
+  price: 8603800
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 564d1d754192055478d17cef885e362a, type: 3}
+  countryNames:
+  - Raymond Grandjean-Egger
+  - Serge du Reymond
+  - Nuno Meyer
+  - "J\xE9r\xF4me Kaufmann"
+  - Patrick de Rodriguez
+  - "Ludovic D\xE9vaud"
+  - Pierre Morard
+  - Joaquim Andrey
+  - "Geronimo Fragni\xE8re"
+  - Olivier de Stilton
+  - Richard Egger
+  - Daniel du Droz
+  - Alberto Liechti
+  - Matteo Wyss
+  - Arnaud Waeber-Egger

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Minsk
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Minsk
+  officeDescription: 'For sale a spacious office 1010 m2. The office block occupies
+    the entire floor of a 7-storey business center. The layout is in the form of
+    a cabinet system. The local network for 200 workplaces is divorced. Developed
+    infrastructure of the area : near cafes, restaurants, a bank, public transport
+    stops.'
+  employeesAmount: 200
+  salary: 750
+  weeklyPaymentValue: 8300
+  releasedGamesAmount: 0
+  price: 430000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: f5fbee0cb96cda64889c66b9fdbd05b8, type: 3}
+  countryNames:
+  - Blinov Ruslan Romanovich
+  - Rybakov Bogdan Lvovich
+  - Ilyin Milan Dmitrievich
+  - "\u0418\u043B\u044C\u0438\u043D \u041C\u0438\u043B\u0430\u043D \u0414\u043C\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447"
+  - Vinogradov Ignat Romanovich
+  - Sokolov Adrian Vladimirovich
+  - "\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0410\u0434\u0440\u0438\u0430\u043D
+    \u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447"
+  - Samoilov Gordey Romanovich
+  - Innokenty Andreevich Tarasov
+  - Rybakov Yefim Ivanovich
+  - Gusev Pyotr Romanovich
+  - Zuev Vlad Borisovich
+  - Kudryavtsev Artur Ivanovich
+  - Yudin Klim Sergeevich
+  - Kornilov Stanislav Dmitrievich

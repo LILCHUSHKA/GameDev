@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: LA
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Los Angeles
+  officeDescription: The total area of the three-storey building is 1,700 m2. The
+    building is equipped with an elevator, there is an underground garage and Parking.
+    The object is located on a busy shopping street next to a residential development
+    surrounded by numerous shops, supermarkets, cafes, restaurants. Public transport
+    stops are within walking distance.
+  employeesAmount: 430
+  salary: 6250
+  weeklyPaymentValue: 32700
+  releasedGamesAmount: 0
+  price: 1700000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 43909d05112ee8643a3db154f0e337e0, type: 3}
+  countryNames:
+  - Anthony Perez
+  - Micheal Price
+  - Robert Ramos
+  - Bernard Davis
+  - Felix Smith
+  - Ron Leonard
+  - Henry King
+  - Cecil Johnson
+  - Jeffrey Henry
+  - Paul Lee
+  - Herman McDaniel
+  - James Brewer
+  - Clarence Jones
+  - Willie Sullivan
+  - Dennis Norman

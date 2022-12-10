@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Budapest
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Budapest
+  officeDescription: The office complex consists of an office part (basement, first
+    and second floors). Office space with a total area of 3.360 sq2.
+  employeesAmount: 840
+  salary: 1100
+  weeklyPaymentValue: 40500
+  releasedGamesAmount: 0
+  price: 2100000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 4006adef4fc3bde448bc536efc91e435, type: 3}
+  countryNames:
+  - "T\xF3th J\xE1nos"
+  - "Szil\xE1gyi Hunor"
+  - "De\xE1k Mih\xE1ly"
+  - "De\xE1k Mih\xE1ly"
+  - "P\xE1l Jen\u0151"
+  - "Pataki Z\xE9t\xE9ny"
+  - Major Zsolt
+  - "Boros \xC1ron"
+  - "Ol\xE1h G\xE1bor"
+  - "Dud\xE1s Zsombor"
+  - "Sz\u0151ke Barna"
+  - Kozma Albert
+  - "N\xE9meth G\xE1bor"
+  - Somogyi Barna
+  - "Hal\xE1sz Dori\xE1n"

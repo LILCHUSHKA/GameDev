@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70ab88f0d6f53494e892ef8dc324c6a2, type: 3}
+  m_Name: Softplaya
+  m_EditorClassIdentifier: 
+  OnStockPriceChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  stockDescription:
+    companyName: Softplaya
+    companyDescription: One of the oldest Russian independent developers of computer
+      games. It was founded in 1968 by Konstantin Sokolov, who took the post of head
+      of the company. In addition to developing its own games, the company is engaged
+      in publishing games of other companies from various European countries. Since
+      the company was founded, about 250 games have been developed and published,
+      and the company's fortune has grown 18.4 times. Nevertheless, the capitalization
+      of the company leaves much to be desired.
+    managerName: Konstantin Sokolov
+    date: 1968
+    sharesAmount: 744249
+    costPrice: 88808389
+    employeesAmount: 505
+    bankruptcyYear: 0
+    bankruptcyMonth: 0
+    bankruptcyWeek: 0
+    offices:
+    - {fileID: 11400000, guid: 1dfae45a6533df542b2f416ccc194e13, type: 2}
+  stockPrice: 9
+  startPrice: 9
+  availableStocks: 100
+  indexInList: 3
+  maxPrice: 14
+  minPrice: 7
+  isTracked: 0
+  lastValues: 0a000000090000000b0000000a0000000d0000000e0000000d0000000c0000000b0000000a00000009000000080000000a00000009000000080000000900000008000000070000000800000009000000

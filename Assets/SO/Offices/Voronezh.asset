@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Voronezh
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Voronezh
+  officeDescription: The office is located in the city and near the forest at the
+    same time. The building is fenced, well finished, there are offices, a gym, a
+    cafeteria, two entrances, a video surveillance system. There is a hospital in
+    a small proximity to the office.
+  employeesAmount: 75
+  salary: 230
+  weeklyPaymentValue: 1050
+  releasedGamesAmount: 0
+  price: 54700
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: cd19ee875f93b2f468dd3c43f9076c7a, type: 3}
+  countryNames:
+  - Rozhkov Matvey Borisovich
+  - Avdeev Rafail Maksimovich
+  - Sergeyev Mikhail Ivanovich
+  - Merkushev Matvey Borisovich
+  - Uvarov Zakhar Lvovich
+  - Isaev Bogdan Lvovich
+  - Rybakov Albert Alexandrovich
+  - Gurbin Alex Alexandrovich
+  - Kalachikov Kirill Alexandrovich
+  - Nikitin Savva Andreevich
+  - Sharifov Artur Alexandrovich
+  - Mishin Fyodor Borisovich
+  - Burov Dobrynya Maksimovich
+  - "\u0414\u0440\u043E\u0437\u0434\u043E\u0432 \u041C\u0430\u0440\u043A \u0414\u043C\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447"
+  - Drozdov Mark Dmitrievich

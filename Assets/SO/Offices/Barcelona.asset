@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Barcelona
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Barcelona
+  officeDescription: The room area is 331 m2. The room is located on the first front
+    line, in line of sight from the street. The room is located just a few minutes'
+    walk from Plaza Catalunya.
+  employeesAmount: 160
+  salary: 1250
+  weeklyPaymentValue: 9620
+  releasedGamesAmount: 0
+  price: 500000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: e68cb06dab0a1824b99541231de91367, type: 3}
+  countryNames:
+  - Santiago Alanis
+  - Samuel Barrios Hijo
+  - Cristian Angulo
+  - "Jordi Pi\xF1a"
+  - Biel Lerma
+  - Pol Quezada
+  - Manuel Trujillo
+  - Isaac Huerta
+  - Isaac Huerta
+  - "Guillem Z\xFA\xF1iga"
+  - Leo Agosto
+  - Cristian Plaza
+  - Oliver Duran
+  - Jaime Roque
+  - "H\xE9ctor Olivera Segundo"

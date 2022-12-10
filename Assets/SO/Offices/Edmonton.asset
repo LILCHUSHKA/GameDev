@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Edmonton
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Edmonton
+  officeDescription: This wonderful office is located a couple of kilometers from
+    the river, near the Art Gallery, which houses works of art by the Indigenous
+    peoples of Canada (Indians) and the Royal Museum dedicated to Aboriginal Culture.
+  employeesAmount: 75
+  salary: 630
+  weeklyPaymentValue: 10450
+  releasedGamesAmount: 0
+  price: 543210
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: 2fda7656d9fc99e4fb8c86194f2f387f, type: 3}
+  countryNames:
+  - Korbin Fritsch
+  - Lisandro Kautzer
+  - Crawford Runolfsson
+  - Rudy Veum
+  - Terrance Kozey
+  - Micheal Kub II
+  - Santiago Deckow
+  - Ambrose Schowalter
+  - Carson Mann
+  - Fermin Pacocha
+  - Brennan Zboncak
+  - Hipolito Yost
+  - Cloyd Predovic
+  - Viho Gahagethy
+  - Yas Meteretollo

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1f4d21bb2394b641add7c318ded06ce, type: 3}
+  m_Name: Miyazaki
+  m_EditorClassIdentifier: 
+  OnActiveIndependent:
+    m_PersistentCalls:
+      m_Calls: []
+  officeName: Miyazaki
+  officeDescription: A large office on the ground floor of a new residential building
+    in the city center. The building was erected near the ocean shore near financially
+    interesting areas. Laconic design and fresh renovation surrounded by transport
+    links and other financial facilities prove that this commercial real estate is
+    what your company needs.
+  employeesAmount: 725
+  salary: 720
+  weeklyPaymentValue: 48650
+  releasedGamesAmount: 0
+  price: 2530000
+  isPlayerOffice: 0
+  isBotOffice: 0
+  isBuy: 0
+  isRent: 0
+  canSpawn: 1
+  officePhoto: {fileID: 21300000, guid: f4ee0bd1d34da2f47a805b2d0e513a24, type: 3}
+  countryNames:
+  - Naoto Sato
+  - Taichi Aoyama
+  - Kenichi Kato
+  - Atsushi Sasaki
+  - Takuma Inoue
+  - Toro Gakemura
+  - Sataro Suzuki
+  - Rei Uno
+  - Hiroki Kimura
+  - Yasuhiro Nomura
+  - Kazuya Yoshida
+  - Minoru Watanabe
+  - Shuhei Ito
+  - Mitsuru Harada
+  - Yosuke Sakamoto
